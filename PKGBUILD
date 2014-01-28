@@ -1,5 +1,5 @@
 # Maintainer : Claire Farron <diesal3@googlemail.com>
-# Githun     : https://github.com/clfarron4/freetype2-ubuntu-archlinux
+# Github     : https://github.com/clfarron4/freetype2-ubuntu-archlinux
 # Contributor: Diego Principe <cdprincipeat gmaildot com>
 # Contributor: Matjaz Mozetic <rationalperseus@gmail.com>
 # Contributor: Tevin Zhang <mail2tevin {at} gmail {dot} com>
